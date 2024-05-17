@@ -20,6 +20,7 @@ const Appbar = () => {
             <Link href={'/about'}>About</Link>
             <Link href={'/contact'}>Contact</Link>
             <Link href={'/profile'}>Profile</Link>
+            <Link href={'/admin'}>Admin</Link>
           </ul>
         </div>
         <div className="flex items-center space-x-5">
